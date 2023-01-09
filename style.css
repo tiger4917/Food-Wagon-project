@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Source Sans Pro';
+}
+
+.container{
+    max-width: 1478 px;
+    margin: 0 auto;
+}
+
+
+
